@@ -15,7 +15,7 @@ React Router: A library for routing in a React application.
 
 # Installation
 
-1. Clone the repository: git clone https://github.com/your-username/skull-candy-ecommerce.git
+1. Clone the repository: git clone https://github.com/brianibarra777/Skullcandy-Shopping-Cart.git
 2. Navigate to the project directory: cd skull-candy-ecommerce
 3. Install the dependencies: npm install
 
